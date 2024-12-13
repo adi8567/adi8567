@@ -21,3 +21,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adi8567&show_icons=true&locale=en" alt="adi8567" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adi8567&" alt="adi8567" /></p>
+
+![snake gif](https://github.com/adi8567/adi8567/blob/output/github-snake-dark.svg)
