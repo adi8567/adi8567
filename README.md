@@ -1,5 +1,5 @@
-# 💫 About Me:
- Hi, I’m Aditya<br>👀 I’m interested in Machine Learning<br>🌱 I’m currently learning S.R.M. Institute of Science and Technology<br>💞️ I’m looking to collaborate on - building ML Models , making real-life Industrial projects<br>📫 How to reach me GMAIL- aditya03123@gmail.com<br>
+# 💫 Myself, Aditya
+ 👀 I’m interested in Machine Learning<br>🌱 I’m currently learning S.R.M. Institute of Science and Technology<br>💞️ I’m looking to collaborate on - building ML Models , making real-life Industrial projects<br>📫 How to reach me GMAIL- aditya03123@gmail.com<br>
 
 
 ## 🌐 Socials:
